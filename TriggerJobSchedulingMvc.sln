@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerJobSchedulingMvc", "TriggerJobSchedulingMvc\TriggerJobSchedulingMvc.csproj", "{0DEDB17D-1963-4CB6-AE28-A8E4D5CC8170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEDB17D-1963-4CB6-AE28-A8E4D5CC8170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEDB17D-1963-4CB6-AE28-A8E4D5CC8170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEDB17D-1963-4CB6-AE28-A8E4D5CC8170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEDB17D-1963-4CB6-AE28-A8E4D5CC8170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6221D385-2F3D-478B-9BA3-AF934512C1F3}
+	EndGlobalSection
+EndGlobal
